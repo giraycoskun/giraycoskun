@@ -5,21 +5,14 @@
   <h1> Hello World ✌️👻</h1>
 </div>
 
-<div align="center">
-  <h2> Who-Am-I 👨‍💻 🤖</h2>
-</div>
+### Who-Am-I 👨‍💻 🤖
 
-<div align="center">
-  <h2> Currently Works On</h2>
-</div>
+### Currently Working On
 
-<div align="center">
-  <h2> What I Want to Learn About</h2>
-</div>
+### What I Want to Learn About
 
-<div align="center">
-  <h2> How to Reach Me</h2>
-</div>
+### How to Reach Me
+
 
 ---
 

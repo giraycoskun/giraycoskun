@@ -1,8 +1,9 @@
+![](https://komarev.com/ghpvc/?username=giraycoskun&color=blueviolet)
+
+
 <div align="center">
   <h1> Hello World ✌️👻</h1>
 </div>
-
-![](https://komarev.com/ghpvc/?username=giraycoskun&color=blueviolet)
 
 <div align="center">
   <h2> Who-Am-I 👨‍💻 🤖</h2>

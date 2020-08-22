@@ -5,20 +5,30 @@
   <h1> Hello World ✌️👻</h1>
 </div>
 
-### Who-Am-I 👨‍💻 🤖
+### About Me 👨‍💻 🤖
 
 ### Currently Working On
 
 ### What I Want to Learn About
 
-### How to Reach Me
+<div align="center">
+  <h3> How to Reach Me</h3>
+  
+  <p align='center'>
+  <a href=""><img height="30" src=""></a>&nbsp;&nbsp;
+  <a href=""><img height="30" src=""></a>&nbsp;&nbsp;
+  <a href=""><img height="30" src=""></a>&nbsp;&nbsp;
+  
+</div>
 
+Icons made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 
 ---
 
 <p align="center">
   <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giraycoskun&layout=compact">
 </p>
+
 
 <!--
 **giraycoskun/giraycoskun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

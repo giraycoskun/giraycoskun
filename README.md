@@ -13,6 +13,18 @@
 
 - I love Scuba Diving & Trekking especially in ancient roads (such as Likya)
 
+- My website: https://giraycoskun.me - currently under construction :)
+
+### My Skill Set 
+
+- **As a Software Engineer:** I am accustomed to use version control(Git), Agile methods such as Kanban or Scrum.
+- **Programming Languages:** Python, C++, Java, JavaScript, C# (sorted on my degree of acquincetance) also some degree of acquaintance with HTML, CSS and SQL
+- **Some Experience with:** 
+  - Machine Learning with Tensorflow and Keras
+  - Full Stack Development with React & Node.js
+  - Object-Oriented Design [Design Patterns in Java](https://www.udemy.com/course/design-patterns-java/learn/)
+  - Computer Networks and IoT(coap)
+
 ### Currently Working On
 
 - Learns DBMS(CS 306) Relational/Non-Relational via Social Media Project following [Database Management Systems by Johannes Gehrke and Raghu Ramakrishnan](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X)
@@ -54,6 +66,11 @@
   
   
 </div>
+
+<p align="center">
+ https://giraycoskun.me
+</p>
+
 
 
 <p align="center">

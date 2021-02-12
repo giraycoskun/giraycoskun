@@ -15,6 +15,8 @@
 
 - My website: https://giraycoskun.me - currently under construction :)
 
+- My Kaggle Acount: https://www.kaggle.com/giraycoskun
+
 ### My Skill Set 
 
 - **As a Software Engineer:** I am accustomed to use version control(Git), Agile methods such as Kanban or Scrum.

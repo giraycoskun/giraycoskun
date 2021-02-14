@@ -17,6 +17,8 @@
 
 - My Kaggle Acount: https://www.kaggle.com/giraycoskun
 
+- My Hackerrank Acount: https://www.hackerrank.com/giraycoskun
+
 ### My Skill Set 
 
 - **As a Software Engineer:** I am accustomed to use version control(Git), Agile methods such as Kanban or Scrum.
@@ -26,21 +28,17 @@
   - Full Stack Development with React & Node.js
   - Object-Oriented Design [Design Patterns in Java](https://www.udemy.com/course/design-patterns-java/learn/)
   - Computer Networks and IoT(coap)
+  - Relational and Non-Relational Databases and Operating Systems
 
 ### Currently Working On
 
-- Learns DBMS(CS 306) Relational/Non-Relational via Social Media Project following [Database Management Systems by Johannes Gehrke and Raghu Ramakrishnan](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X)
+- Developing Web Apps for Practice with Nodde.js and React.js
 
-- Learns Operating Systems(CS 307) following [Modern Operating Systems by AndrewS. Tanenbaum](https://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X)
+- My Graduation Project with Deep Learning Architecture on Signal Processing :)
 
-- Learns Computer Networks(CS 408) following [Computer Networking with Internet Protocols and Technologies by William Stallings](https://www.amazon.com/Computer-Networking-Internet-Protocols-Technology/dp/0131410989)
+- Software Verification & Validation Course
 
-- Study Deep Learning especially CNN and RNN(LSTM) Structures
-  - [MIT 6.S191 Introduction to Deep Learning](http://introtodeeplearning.com/index.html)
-  - [Deep Learning Specialization by Andrew NG from deeplearning.ai](https://www.coursera.org/specializations/deep-learning#courses)
-  - [TensorFlow: Advanced Techniques Specialization by Laurence Moroney by deeplearning.ai](https://www.coursera.org/specializations/tensorflow-advanced-techniques#courses)
-
-- Angular (just started a few hours in a week probably :) )
+- Programming Languages Course
 
 ### What I Want to Learn About
 

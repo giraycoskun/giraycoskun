@@ -13,7 +13,7 @@
 
 - I love Scuba Diving & Trekking especially in ancient roads (such as Likya)
 
-- My website: https://giraycoskun.me - currently under construction :)
+- My website: https://giraycoskun.com - currently under construction :)
 
 - My Kaggle Acount: https://www.kaggle.com/giraycoskun
 

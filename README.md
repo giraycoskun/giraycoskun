@@ -5,50 +5,81 @@
   <h1> Hello World ✌️👻</h1>
 </div>
 
-### About Me 👨‍💻 🤖
+## About Me 👨‍💻 🤖
 
-- Sabancı University, Computer Science & Engineering Student
+- Sabancı University, Computer Science & Engineering Student, Minor in Math
 
-- Minor in Math and Double Major in Economy (for fun :) )
+- I love Scuba Diving & Trekking
 
-- I love Scuba Diving & Trekking especially in ancient roads (such as Likya)
-
-- My website: https://giraycoskun.com - currently under construction :)
-
-- My Kaggle Acount: https://www.kaggle.com/giraycoskun
+- My website: https://giraycoskun.com
 
 - My Hackerrank Acount: https://www.hackerrank.com/giraycoskun
 
-### My Skill Set 
+- My Kaggle Acount: https://www.kaggle.com/giraycoskun
 
-- **As a Software Engineer:** I am accustomed to use version control(Git), Agile methods such as Kanban or Scrum.
-- **Programming Languages:** Python, C++, Java, JavaScript, C# (sorted on my degree of acquincetance) also some degree of acquaintance with HTML, CSS and SQL
-- **Some Experience with:** 
-  - Machine Learning with Tensorflow and Keras
-  - Full Stack Development with React & Node.js
+### Interested In
+- Software Engineering: Backend Development
+
+- AI: heuristic search & constraint satisfaction problems
+
+- Distributed & Cloud Applications
+
+## My Skill Set 
+
+- **Software Engineer:** 
+  - Algorithms & Data Structures (Hash Tables, Graphs, Trees nad Lists) (Sorting, Searching, Dynamic Programming, Graph Algorithms)
+  - Software Testing (CS 439 Software Verification & Validation - written unit tests in Python and Java)
+  - Version Control (Git)
+  - Continuous Integration/Development (Github Actions)
+  - Flask Python Framework
+  - Express Node.js Framework
+  - CSP Solvers: sugar, Google OR Tools
+- **Programming Languages:** (sorted on my degree of acquincetance)
+  - Python: developped side projects, taken tests
+  - C++: written data structures and algorithms for CS201 & CS204 & CS300 & CS301
+  - Java: developped multithread projects for CS 307 and microservices via Spring Boot)
+  - Javascript: developped backend via Express.js and simple front-end via both vanilla js and react
+  - C#: developped project for CS408 via socket programming
+  - PhP: developped a simple backend for CS 306
+
+- **Experience with:** 
+  - Machine Learning via Matlab, Tensorflow and Keras
+  - Full Stack Development with React & Node.js (https://fullstackopen.com/en/)
   - Object-Oriented Design [Design Patterns in Java](https://www.udemy.com/course/design-patterns-java/learn/)
   - Computer Networks and IoT(coap)
-  - Relational and Non-Relational Databases and Operating Systems
+  - Relational and Non-Relational Databases 
+  - Distributed Systems
 
-### Currently Working On
+## Currently Working On
 
-- Developing Web Apps for Practice with Nodde.js and React.js
+- Learning Asistant at CS 305 (Programming Languages)
 
-- My Graduation Project with Deep Learning Architecture on Signal Processing :)
+- Backend Developper at Migros
 
-- Software Verification & Validation Course
+- **Learning:**
+  - CS 403: Distributed Systems
+  - CS 404: Artificial Intelligence
+  - Math 317: Number Theory
 
-- Programming Languages Course
+- **Current Projects:**
+  - Unsupervised SSVEP signal classification
+  - Flexible Combinatorial Interaction Testing in Modified Condition/Decison Testing
 
-### What I Want to Learn About
+## What I Want to Learn About
 
 - Paralel Computing
 
-- Advanced Deep Learning Applications & Methods
-
 - CyberSecurity
 
-- More advanced Node.js with React or Angular
+## Projects
+
+going to update soon :)
+
+### University Projects
+
+### Academic Projects
+
+### Side Projects
 
 ---
 
@@ -68,7 +99,7 @@
 </div>
 
 <p align="center">
- https://giraycoskun.me
+ https://giraycoskun.com
 </p>
 
 

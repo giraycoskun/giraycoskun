@@ -5,84 +5,56 @@
   <h1> Hello World ✌️👻</h1>
 </div>
 
+![me](icons/diver.jpeg)
+
+
 ## About Me 👨‍💻 🤖
 
-- Sabancı University, Computer Science & Engineering Student, Minor in Math
+- Sabancı University, Computer Science & Engineering Student
+  - Minor in Math
+  - Double Major in Economics
 
 - I love Scuba Diving & Trekking
 
-- My website: https://giraycoskun.com
+- My website: https://giraycoskun.dev
 
-- My Hackerrank Acount: https://www.hackerrank.com/giraycoskun
+## Interested In
 
-- My Kaggle Acount: https://www.kaggle.com/giraycoskun
+- **Software Engineering**
+  - Backend Development
+  - Distributed Algorithms
 
-- My Books: https://docs.google.com/spreadsheets/d/1KtMXfl_7tnkaG6XBG8MMCf-hRiqKoxi22NZpRkkHN_Q/edit?usp=sharing
-
-### Interested In
-- Software Engineering: Backend Development
-
-- AI: heuristic search & constraint satisfaction problems
-
-- Distributed & Cloud Applications
-
-## My Skill Set 
-
-- **Software Engineer:** 
-  - Algorithms & Data Structures (Hash Tables, Graphs, Trees nad Lists) (Sorting, Searching, Dynamic Programming, Graph Algorithms)
-  - Software Testing (CS 439 Software Verification & Validation - written unit tests in Python and Java)
-  - Version Control (Git)
-  - Continuous Integration/Development (Github Actions)
-  - Flask Python Framework
-  - Express Node.js Framework
-  - CSP Solvers: sugar, Google OR Tools
-- **Programming Languages:** (sorted on my degree of acquincetance)
-  - Python: developped side projects, taken tests
-  - C++: written data structures and algorithms for CS201 & CS204 & CS300 & CS301
-  - Java: developped multithread projects for CS 307 and microservices via Spring Boot)
-  - Javascript: developped backend via Express.js and simple front-end via both vanilla js and react
-  - C#: developped project for CS408 via socket programming
-  - PhP: developped a simple backend for CS 306
-
-- **Experience with:** 
-  - Machine Learning via Matlab, Tensorflow and Keras
-  - Full Stack Development with React & Node.js (https://fullstackopen.com/en/)
-  - Object-Oriented Design [Design Patterns in Java](https://www.udemy.com/course/design-patterns-java/learn/)
-  - Computer Networks and IoT(coap)
-  - Relational and Non-Relational Databases 
-  - Distributed Systems
+- **Artificial Intelligence**
+  - Combinatorial Problems
+  - Logical Reasoning
+  - Constraint Satisfaction
 
 ## Currently Working On
 
-- Learning Asistant at CS 305 (Programming Languages)
-
-- Backend Developper at Migros
+- Work at Knowledge Representation and Reasoning Group in Sabanci University
 
 - **Learning:**
-  - CS 403: Distributed Systems
-  - CS 404: Artificial Intelligence
-  - Math 317: Number Theory
+  - CS 401: Computer Architecture
+  - CS 407: Theory of Computation
+  - ECON 310: Game Theory
+  - Math 311: Algebra
 
 - **Current Projects:**
-  - Unsupervised SSVEP signal classification
-  - Flexible Combinatorial Interaction Testing in Modified Condition/Decison Testing
+  - Optimal Kidney-Exchange Problem
 
 ## What I Want to Learn About
 
 - Paralel Computing
 
-- CyberSecurity
+- REACT library for side-projects
 
 ## Projects
 
-going to update soon :)
-
-### University Projects
+### Academic Projects
 
 - Unsupervised SSVEP signal classification
   - Steady-State Visually Evoked Signals Classification via Convolution Neural Networks, Autoencoders and Unsupervised Learning strategies. Starting point is https://github.com/osmanberke/Deep-SSVEP-BCI
 
-### Academic Projects
 
 - Flexible Combinatorial Interaction Testing in Modified Condition/Decison Testing
 
@@ -117,11 +89,8 @@ going to update soon :)
  https://giraycoskun.com
 </p>
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=giraycoskun&theme=dark&background=000000)](https://git.io/streak-stats)
 
-
-<p align="center">
-  <img width="460" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giraycoskun&layout=compact">
-</p>
 
 Icons made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
 

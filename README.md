@@ -86,7 +86,7 @@
 </div>
 
 <p align="center">
- https://giraycoskun.com
+ https://giraycoskun.dev
 </p>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=giraycoskun&theme=dark&background=000000)](https://git.io/streak-stats)

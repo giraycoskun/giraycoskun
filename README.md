@@ -85,6 +85,9 @@
 - mySU Anouncement System
   - A side project to mail school anouncements by periodically parsing https://mysu.sabanciuniv.edu/en open sourced at https://github.com/giraycoskun/University-Anouncement-System
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=giraycoskun&theme=dark)](https://git.io/streak-stats)
+
 ---
 
 <div align="center">

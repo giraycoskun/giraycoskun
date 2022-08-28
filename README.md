@@ -3,9 +3,15 @@
 
 <div align="center">
   <h1> Hello World ✌️👻</h1>
-</div>
 
-![me](icons/diver.jpeg)
+  <p float="left">
+  <img src="./icons/coder.png" width="100" />
+  <img src="./icons/artificial-intelligence.png" width="100" />
+  <img src="./icons/diver.png" width="100" /> 
+  <img src="./icons/galata-tower.png" width="100" />
+</p>
+
+</div>
 
 
 ## About Me 👨‍💻 🤖
@@ -13,6 +19,8 @@
 - Sabancı University, Computer Science & Engineering Student
   - Minor in Math
   - Double Major in Economics
+
+- Interested in Combinatorial Problems under mission planning & decision making domains
 
 - I love Scuba Diving & Trekking
 

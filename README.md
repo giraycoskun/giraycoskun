@@ -26,6 +26,15 @@
 
 - My website: https://giraycoskun.dev
 
+## My Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,flask,spring,react,git,docker,aws" />
+  </a>
+</p>
+
+
 ## Interested In
 
 - **Software Engineering**
@@ -96,8 +105,6 @@
 <p align="center">
  https://giraycoskun.dev
 </p>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=giraycoskun&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
 Icons made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>

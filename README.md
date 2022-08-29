@@ -48,22 +48,20 @@
 
 ## Currently Working On
 
-- Work at Knowledge Representation and Reasoning Group in Sabanci University
+- AWS Consultant at Skyloop
+
+- Knowledge Representation and Reasoning Group in Sabanci University
 
 - **Learning:**
-  - CS 401: Computer Architecture
-  - CS 407: Theory of Computation
-  - ECON 310: Game Theory
-  - Math 311: Algebra
+  
+  * REACT library
+
+  * Infrastructure As Code (Cloudformation, Terraform)
+  
+  * Kubernetes
 
 - **Current Projects:**
   - Optimal Kidney-Exchange Problem
-
-## What I Want to Learn About
-
-- Paralel Computing
-
-- REACT library for side-projects
 
 ## Projects
 

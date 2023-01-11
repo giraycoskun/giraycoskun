@@ -1,18 +1,14 @@
-![](https://komarev.com/ghpvc/?username=giraycoskun&color=blueviolet)
-
-
 <div align="center">
   <h1> Hello World ✌️👻</h1>
 
   <p float="left">
   <img src="./icons/coder.png" width="100" />
   <img src="./icons/artificial-intelligence.png" width="100" />
-  <img src="./icons/diver.png" width="100" /> 
+  <img src="./icons/diver.png" width="100" />
   <img src="./icons/galata-tower.png" width="100" />
 </p>
 
 </div>
-
 
 ## About Me 👨‍💻 🤖
 
@@ -24,7 +20,7 @@
 
 - I love Scuba Diving & Trekking
 
-- My website: https://giraycoskun.dev
+- My website: <https://giraycoskun.dev>
 
 ## My Skills
 
@@ -33,7 +29,6 @@
     <img src="https://skillicons.dev/icons?i=python,java,flask,spring,react,git,docker,aws" />
   </a>
 </p>
-
 
 ## Interested In
 
@@ -48,17 +43,15 @@
 
 ## Currently Working On
 
-- AWS Consultant at Skyloop
-
 - Knowledge Representation and Reasoning Group in Sabanci University
 
 - **Learning:**
   
-  * REACT library
+  - REACT library
 
-  * Infrastructure As Code (Cloudformation, Terraform)
+  - Infrastructure As Code (Cloudformation, Terraform)
   
-  * Kubernetes
+  - Kubernetes
 
 - **Current Projects:**
   - Optimal Kidney-Exchange Problem
@@ -67,22 +60,20 @@
 
 ### Academic Projects
 
-- Unsupervised SSVEP signal classification
-  - Steady-State Visually Evoked Signals Classification via Convolution Neural Networks, Autoencoders and Unsupervised Learning strategies. Starting point is https://github.com/osmanberke/Deep-SSVEP-BCI
-
-
 - Flexible Combinatorial Interaction Testing in Modified Condition/Decison Testing
 
-  - An academic project on applying Flexible Combinatorial Interaction Testing on Modified Condition/Decision Testing via tool https://github.com/susoftgroup/UCIT by modelling it as a constraint-satisfaction problem
+  - An academic project on applying Flexible Combinatorial Interaction Testing on Modified Condition/Decision Testing via tool <https://github.com/susoftgroup/UCIT> by modelling it as a constraint-satisfaction problem
 
 - CIT-daily: A Combinatorial Interaction Testing-Based Daily Build Process
   - An academic project regarding software testsing and devops via Combinatorial Interaction Testing and Nightly Build Process
 
+- Unsupervised SSVEP signal classification
+  - Steady-State Visually Evoked Signals Classification via Convolution Neural Networks, Autoencoders and Unsupervised Learning strategies. Starting point is <https://github.com/osmanberke/Deep-SSVEP-BCI>
+
 ### Side Projects
 
 - mySU Anouncement System
-  - A side project to mail school anouncements by periodically parsing https://mysu.sabanciuniv.edu/en open sourced at https://github.com/giraycoskun/University-Anouncement-System
-
+  - A side project to mail school anouncements by periodically parsing <https://mysu.sabanciuniv.edu/en> open sourced at <https://github.com/giraycoskun/University-Anouncement-System>
 
 ---
 
@@ -104,28 +95,10 @@
   <a href="https://www.instagram.com/giray_coskun/"><img height="30" src="https://github.com/giraycoskun/giraycoskun/blob/master/icons/instagram.png"></a>&nbsp;&nbsp;
   <a href="https://open.spotify.com/user/11151152114?si=_VZRftzkSj6_LeGUbOmQMQ"><img height="30" src="https://github.com/giraycoskun/giraycoskun/blob/master/icons/spotify.png"></a>&nbsp;&nbsp;
   
-  
 </div>
 
 <p align="center">
  https://giraycoskun.dev
 </p>
 
-
 Icons made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>
-
-
-<!--
-**giraycoskun/giraycoskun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

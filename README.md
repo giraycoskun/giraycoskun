@@ -12,15 +12,41 @@
 
 ## About Me 👨‍💻 🤖
 
-- Sabancı University, Computer Science & Engineering Student
+- **Graduated from** Sabancı University, Computer Science & Engineering
   - Minor in Math
   - Double Major in Economics
 
-- Interested in Combinatorial Problems under mission planning & decision making domains
+- Interested in
+    - **Software Engineering**
+        - Backend Development
+        - Distributed Algorithms
+        - DevOps Engineering
+    - **Artificial Intelligence**
+        - Combinatorial Problems
+        - Logical Reasoning
+        - Constraint Satisfaction
 
 - I love Scuba Diving & Trekking
 
 - My website: <https://giraycoskun.dev>
+- My Github Projects: <https://giraycoskun.github.io/>
+
+## My Socials
+
+<div align="center">
+  <p float="left">
+  <a href="mailto:giraycoskun.dev@gmail.com">
+  <img src="./icons/gmail-2.png" width="50" />
+  </a>
+</p>
+</div>
+
+<!-- [![gmail](./icons/gmail-2.png){ width="70px", align="center" }](mailto:giraycoskun.dev@gmail.com)
+[![linkedin](./icons/linkedin.png){ width="60px", align="center" }](https://www.linkedin.com/in/giraycoskun/)
+[![twitter](./icons/twitter.png){ width="60px", align="center" }](https://twitter.com/coskun_giray)
+[![facebook](./icons/facebook.png){ width="60px", align="center" }](https://www.facebook.com/giray.coskun1)
+[![instagram](./icons/instagram.png){ width="60px", align="center" }](https://www.instagram.com/giray_coskun/)
+[![spotify](./icons/spotify.png){ width="60px", align="center" }](https://open.spotify.com/user/11151152114?si=_VZRftzkSj6_LeGUbOmQMQ) -->
 
 ## My Skills
 
@@ -30,31 +56,6 @@
   </a>
 </p>
 
-## Interested In
-
-- **Software Engineering**
-  - Backend Development
-  - Distributed Algorithms
-
-- **Artificial Intelligence**
-  - Combinatorial Problems
-  - Logical Reasoning
-  - Constraint Satisfaction
-
-## Currently Working On
-
-- Knowledge Representation and Reasoning Group in Sabanci University
-
-- **Learning:**
-  
-  - REACT library
-
-  - Infrastructure As Code (Cloudformation, Terraform)
-  
-  - Kubernetes
-
-- **Current Projects:**
-  - Optimal Kidney-Exchange Problem
 
 ## Projects
 
@@ -80,25 +81,3 @@
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=giraycoskun&theme=dark" />
 </p>
-
----
-
-<div align="center">
-  <h3> How to Reach Me</h3>
-  
-  <p align='center'>
-  <a href="mailto:giraycoskun@sabanciuniv.edu"><img height="30" src="https://github.com/giraycoskun/giraycoskun/blob/master/icons/gmail-2.png"></a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/giraycoskun/"><img height="30" src="https://github.com/giraycoskun/giraycoskun/blob/master/icons/linkedin.png"></a>&nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/h9scFIDIqrZh"><img height="30" src="https://github.com/giraycoskun/giraycoskun/blob/master/icons/skype.png"></a>&nbsp;&nbsp;
-  <a href="https://twitter.com/coskun_giray"><img height="30" src="https://github.com/giraycoskun/giraycoskun/blob/master/icons/twitter.png"></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/giray.coskun1"><img height="30" src="https://github.com/giraycoskun/giraycoskun/blob/master/icons/facebook (1).png"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/giray_coskun/"><img height="30" src="https://github.com/giraycoskun/giraycoskun/blob/master/icons/instagram.png"></a>&nbsp;&nbsp;
-  <a href="https://open.spotify.com/user/11151152114?si=_VZRftzkSj6_LeGUbOmQMQ"><img height="30" src="https://github.com/giraycoskun/giraycoskun/blob/master/icons/spotify.png"></a>&nbsp;&nbsp;
-  
-</div>
-
-<p align="center">
- https://giraycoskun.dev
-</p>
-
-Icons made by <a href="http://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a>

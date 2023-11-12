@@ -34,27 +34,27 @@
 ## My Socials
 
 <div align="center">
-  <p float="left">
   <a href="mailto:giraycoskun.dev@gmail.com">
   <img src="./icons/gmail-2.png" width="50" />
   </a>
-</p>
+  <a href="https://www.linkedin.com/in/giraycoskun/">
+  <img src="./icons/linkedin.png" width="50" />
+  </a>
+  <a href="https://twitter.com/coskun_giray">
+  <img src="./icons/twitter.png" width="50" />
+  </a>
+  <a href="https://open.spotify.com/user/11151152114?si=_VZRftzkSj6_LeGUbOmQMQ">
+  <img src="./icons/spotify.png" width="50" />
+  </a>
 </div>
-
-<!-- [![gmail](./icons/gmail-2.png){ width="70px", align="center" }](mailto:giraycoskun.dev@gmail.com)
-[![linkedin](./icons/linkedin.png){ width="60px", align="center" }](https://www.linkedin.com/in/giraycoskun/)
-[![twitter](./icons/twitter.png){ width="60px", align="center" }](https://twitter.com/coskun_giray)
-[![facebook](./icons/facebook.png){ width="60px", align="center" }](https://www.facebook.com/giray.coskun1)
-[![instagram](./icons/instagram.png){ width="60px", align="center" }](https://www.instagram.com/giray_coskun/)
-[![spotify](./icons/spotify.png){ width="60px", align="center" }](https://open.spotify.com/user/11151152114?si=_VZRftzkSj6_LeGUbOmQMQ) -->
 
 ## My Skills
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,flask,spring,react,git,docker,aws" />
-  </a>
-</p>
+![My Skills](https://skillicons.dev/icons?i=python,java)
+
+![My Skills](https://skillicons.dev/icons?i=flask,fastapi,spring)
+
+![My Skills](https://skillicons.dev/icons?i=git,docker,aws,linux)
 
 
 ## Projects

@@ -59,22 +59,32 @@
 
 ## Projects
 
-### Academic Projects
+### Personal Projects
 
-- Flexible Combinatorial Interaction Testing in Modified Condition/Decison Testing
+- automated-reasoning
+- transporter
+- tvtime-scrapy-api
+- f1-dashboard
+- music-library
+- University Anouncement System
 
-  - An academic project on applying Flexible Combinatorial Interaction Testing on Modified Condition/Decision Testing via tool <https://github.com/susoftgroup/UCIT> by modelling it as a constraint-satisfaction problem
+### School Projects
 
-- CIT-daily: A Combinatorial Interaction Testing-Based Daily Build Process
-  - An academic project regarding software testsing and devops via Combinatorial Interaction Testing and Nightly Build Process
+- Encryption in Assembly
+- Client-Server-Drive-App
+- yumyum-social-network
 
-- Unsupervised SSVEP signal classification
-  - Steady-State Visually Evoked Signals Classification via Convolution Neural Networks, Autoencoders and Unsupervised Learning strategies. Starting point is <https://github.com/osmanberke/Deep-SSVEP-BCI>
+### Research Projects
 
-### Side Projects
+- Answer Set Programming in Kidney Exchange PRoblem
 
-- mySU Anouncement System
-  - A side project to mail school anouncements by periodically parsing <https://mysu.sabanciuniv.edu/en> open sourced at <https://github.com/giraycoskun/University-Anouncement-System>
+- Using Unified Combinatorial Interaction Testing for MC/DC Coverage
+
+- A Combinatorial Interaction Testing-Based Daily Build Process
+
+- Unsupervised SSVEP Signal Classification
+
+- KANADE RUSSELL’S Identity Finder
 
 ---
 

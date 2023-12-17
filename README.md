@@ -59,21 +59,6 @@
 
 ## Projects
 
-### Personal Projects
-
-- automated-reasoning
-- transporter
-- tvtime-scrapy-api
-- f1-dashboard
-- music-library
-- University Anouncement System
-
-### School Projects
-
-- Encryption in Assembly
-- Client-Server-Drive-App
-- yumyum-social-network
-
 ### Research Projects
 
 - Answer Set Programming in Kidney Exchange PRoblem
@@ -84,7 +69,18 @@
 
 - Unsupervised SSVEP Signal Classification
 
-- KANADE RUSSELL’S Identity Finder
+### School Projects
+
+- Encryption in Assembly
+- Client-Server-Drive-App
+- yumyum-social-network
+
+### Side Projects
+
+- automated-reasoning
+- tvtime-scrapy-api
+- python-dev-cli
+- flask-blogging-website
 
 ---
 

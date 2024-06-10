@@ -31,7 +31,15 @@
 - My website: <https://giraycoskun.dev>
 - My Github Projects: <https://giraycoskun.github.io/>
 
-## My Socials
+## My Skills
+
+![My Skills](https://skillicons.dev/icons?i=python,java)
+
+![My Skills](https://skillicons.dev/icons?i=flask,fastapi,spring)
+
+![My Skills](https://skillicons.dev/icons?i=git,docker,aws,linux)
+
+## My Contact
 
 <div align="center">
   <a href="mailto:giraycoskun.dev@gmail.com">
@@ -48,27 +56,21 @@
   </a>
 </div>
 
-## My Skills
-
-![My Skills](https://skillicons.dev/icons?i=python,java)
-
-![My Skills](https://skillicons.dev/icons?i=flask,fastapi,spring)
-
-![My Skills](https://skillicons.dev/icons?i=git,docker,aws,linux)
-
-
 ## Projects
 
 ### Research Projects
 
-- Answer Set Programming in Kidney Exchange PRoblem
+- Answer Set Programming in Kidney Exchange Problem
 
 - Using Unified Combinatorial Interaction Testing for MC/DC Coverage
+    - **Published** at <https://ieeexplore.ieee.org/abstract/document/9787934>
 
 - A Combinatorial Interaction Testing-Based Daily Build Process
-
+    - **Published** at <https://www.sciencedirect.com/science/article/abs/pii/S0164121222000875>
+      
 - Unsupervised SSVEP Signal Classification
-
+    - **Published** at <https://ieeexplore.ieee.org/abstract/document/9864700>
+ 
 ### School Projects
 
 - Encryption in Assembly
@@ -82,8 +84,6 @@
 - python-dev-cli
 - flask-blogging-website
 
----
 
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=giraycoskun&theme=dark" />
-</p>
+---
+<!-- <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=giraycoskun&theme=dark" /> </p> -->
